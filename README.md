@@ -21,9 +21,7 @@ our proposed approach achieves state-of-the-art results on
 PASCAL VOC and MS COCO datasets. For more details, please refer to our CVPR paper ([arxiv](https://arxiv.org/pdf/2103.17115.pdf)). 
 
 
-<div align=center>
-<img src="https://github.com/hzhupku/DCNet/blob/master/tools/fewshot_exp/arch.PNG" width="600">
-</div>
+![image](https://github.com/hzhupku/DCNet/blob/main/tools/fewshot_exp/arch.PNG)
 
 ## Installation
 Check INSTALL.md for installation instructions. Since maskrcnn-benchmark has been deprecated, please follow these instructions carefully (e.g. version of Python packages).
