@@ -6,7 +6,7 @@ from .concat_dataset import ConcatDataset
 from .abstract import AbstractDataset
 from .cityscapes import CityScapesDataset
 from .voc_meta import PascalVOCDataset_Meta
-from .coco_meta import COCODataset_Meta
+#from .coco_meta import COCODataset_Meta
 
 __all__ = [
     "COCODataset",
@@ -14,6 +14,5 @@ __all__ = [
     "PascalVOCDataset",
     "AbstractDataset",
     "CityScapesDataset",
-    "PascalVOCDataset_Meta",
-    "COCODataset_Meta"
+    "PascalVOCDataset_Meta"
 ]
